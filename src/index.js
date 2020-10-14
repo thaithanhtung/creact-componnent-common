@@ -1,2 +1,4 @@
 const { Button } = './components/Button';
-export { Button };
+const { ImageSlideCustom } = './components/ImageSlideCustom';
+
+export { Button, ImageSlideCustom };

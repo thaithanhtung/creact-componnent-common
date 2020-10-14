@@ -1,6 +1,6 @@
 {
-  "name": "creact-component",
-  "version": "1.0.0",
+  "name": "component-common-grande",
+  "version": "1.0.1",
   "description": "creact component common",
   "main": "dist/index.js",
   "scripts": {
@@ -14,8 +14,12 @@
   "author": "TungThai",
   "license": "MIT",
   "dependencies": {
+    "@storybook/addon-actions": "^6.0.26",
+    "antd": "^4.7.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-svg": "^11.0.44"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
